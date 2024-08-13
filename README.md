@@ -8,7 +8,7 @@
 
 ---
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### <img src="https://github.com/zhangjundsg/zhangjundsg/blob/main/Developer.gif" width="45" /> About Me:
 - 🏦 一位不知名的c#开发者 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 偶尔写/分享文章 <!-- [hashnode](https://apoorvtyagi.tech/) -->
