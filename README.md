@@ -1,17 +1,28 @@
+# Hi there! <img src="https://github.com/zhangjundsg/zhangjundsg/blob/main/Hi.gif" width="35" />
+
 <img src="https://github.com/zhangjundsg/zhangjundsg/blob/main/header.png" alt="zhangjun GitHub README header image">
-<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-<h2>Latest Blog Posts</h2>
+<p>
+<a href="https://www.x.com/zhangj200135"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+<a href="https://www.youtube.com/@user-vf8zc3fk2b"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+</p>
+
+---
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+- 🏦 一位不知名的c#开发者 
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📝 偶尔写/分享文章 <!-- [hashnode](https://apoorvtyagi.tech/) -->
+- 💻 我平常使用的技术栈: **.js**, **c#**, **.sql**
+<!-- - 📖 I am currently reading **India After Gandhi** by Ramachandra Guha -->
+<!-- - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups -->
+- 👯 喜欢跑步、骑车
+
+⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.49 % as on ⏰ 12-Aug-2024
+
+---
+
+<h2>最新博客</h2>
   <ul>
-  <li><a href=https://mokkapps.de/blog/analyze-memory-leaks-in-your-nuxt-app target="_blank" rel="noreferrer nofollow">Analyze Memory Leaks in Your Nuxt App</a></li><li><a href=https://mokkapps.de/blog/dockerizing-a-nuxt-app target="_blank" rel="noreferrer nofollow">Dockerizing a Nuxt App: A Comprehensive Guide</a></li><li><a href=https://mokkapps.de/blog/self-host-your-nuxt-app-with-coolify target="_blank" rel="noreferrer nofollow">Self-Host Your Nuxt App With Coolify</a></li><li><a href=https://mokkapps.de/blog/simpler-two-way-binding-in-vue-with-define-model target="_blank" rel="noreferrer nofollow">Simpler Two-Way Binding in Vue With defineModel</a></li><li><a href=https://mokkapps.de/blog/login-at-supabase-via-rest-api-in-playwright-e2e-test target="_blank" rel="noreferrer nofollow">Login at Supabase via REST API in Playwright E2E Test</a></li>
+  <li><a href="##" target="_blank" rel="noreferrer nofollow">Analyze Memory Leaks in Your Nuxt App</a></li>
   </ul>
-<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
-<h2>Latest Newsletter Issues</h2>
-  <ul>
-    <li><a href=https://weekly-vue.newshttps://weekly-vue.news/issues/v2/121 target="_blank" rel="noreferrer nofollow">Weekly Vue News #158 - Simple Routing Without Using External Libraries</a></li><li><a href=https://weekly-vue.newshttps://weekly-vue.news/issues/v2/120 target="_blank" rel="noreferrer nofollow">Weekly Vue News #157 - Analyze Memory Leaks in Your Nuxt App</a></li><li><a href=https://weekly-vue.newshttps://weekly-vue.news/issues/v2/119 target="_blank" rel="noreferrer nofollow">Weekly Vue News #156 - Avoid Side Effects in Computed Properties</a></li><li><a href=https://weekly-vue.newshttps://weekly-vue.news/issues/v2/116 target="_blank" rel="noreferrer nofollow">Weekly Vue News #155 - Enforce Section Order & Component API Style</a></li><li><a href=https://weekly-vue.newshttps://weekly-vue.news/issues/154 target="_blank" rel="noreferrer nofollow">Weekly Vue News #154 - Dockerizing a Nuxt 3 App</a></li>
-  </ul>
-<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-  </a>
+<p><a href="##">➡️ 更多</a></p>
