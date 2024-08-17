@@ -13,9 +13,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 偶尔写/分享文章 <!-- [hashnode](https://apoorvtyagi.tech/) -->
 - 💻 我平常使用的技术栈: **.js**, **c#**, **.sql**
-<!-- - 📖 I am currently reading **India After Gandhi** by Ramachandra Guha -->
-<!-- - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups -->
-- 👯 喜欢跑步、骑车
+- 👯 喜欢跑步、骑车、打游戏
 
 ⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.49 % as on ⏰ 12-Aug-2024
 
