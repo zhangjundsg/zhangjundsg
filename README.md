@@ -13,13 +13,3 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 💻 我平常使用的技术栈: **.Net/C#**, **.JS**, **.SQL**
-
-<!-- ⏳ **Year Progress** { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 30.49 % as on ⏰ 12-Aug-2024 -->
-
----
-<!-- 
-<h2>最新博客</h2>
-  <ul>
-  <li><a href="##" target="_blank" rel="noreferrer nofollow">Analyze Memory Leaks in Your Nuxt App</a></li>
-  </ul>
-<p><a href="##">➡️ 更多</a></p> -->
